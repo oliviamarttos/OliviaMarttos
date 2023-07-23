@@ -2,7 +2,7 @@
 
 
 
-- 🦠  Hoje trabalho com biologia molecular
+- 🦠  Hoje trabalho com Análise de processos na DSIN
 - 💻 Atualmente estou estudando HTML, CSS, JavaScript e SQL
 - 📚 Estou em busca de adquirir novos conhecimentos
 - 📫 Contate-me no email: oliviamarttos@outlook.com
